@@ -1,4 +1,4 @@
-# Registration
+# Registration REST API with Node.js, ExpressJS, Mongoose & jetwebtoken & dotenv
 # Features:-
 Register a user
 Verify user's email address
