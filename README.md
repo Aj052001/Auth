@@ -1,6 +1,6 @@
 # Registration REST API with Node.js, ExpressJS, Mongoose & jetwebtoken & dotenv
 # Features:-
-Register a user
+Register a user</br>
 Verify user's email address
 Send forgot password email
 Reset password
