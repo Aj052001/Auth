@@ -1,6 +1,5 @@
 # Registration
-# Registration
-#Features:-
+# Features:-
 Register a user
 Verify user's email address
 Send forgot password email
@@ -9,7 +8,7 @@ Login
 Access token
 Refresh tokens
 
-#What technology are we using?
+# What technology are we using?
  "bcryptjs": "^2.4.3",
  "cookie-parser": "^1.4.6",
  "dotenv": "^16.0.3",
