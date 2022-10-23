@@ -9,6 +9,7 @@ Access token</br>
 Refresh tokens</br>
 
 # What technology are we using?
+"nodejs"</br>"reactjs"</br>
  "bcryptjs": "^2.4.3",</br>
  "cookie-parser": "^1.4.6",</br>
  "dotenv": "^16.0.3",</br>
